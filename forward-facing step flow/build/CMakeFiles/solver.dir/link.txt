@@ -1,1 +1,0 @@
-mpicxx   -fopenmp    CMakeFiles/solver.dir/src/miniCFD.cpp.o CMakeFiles/solver.dir/src/util.cpp.o  -o solver 
